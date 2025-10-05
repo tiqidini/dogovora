@@ -1,0 +1,5 @@
+{
+  "name": "Contract Accounting",
+  "description": "A web application for managing contracts and procurement planning, ported from a Python desktop app. It allows users to add, edit, delete, search, and filter contracts, manage planned procurements, visualize data with charts, and customize the interface.",
+  "requestFramePermissions": []
+}
